@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+
+@theme {
+  /* 디자이너에게 받은 토큰으로 교체합니다 */
+  --color-primary: #3b82f6;
+  --font-sans: 'Pretendard', sans-serif;
+}
